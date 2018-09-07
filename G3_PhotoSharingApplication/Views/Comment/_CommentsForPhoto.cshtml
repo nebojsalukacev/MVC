@@ -1,0 +1,12 @@
+﻿@model IEnumerable< G3_PhotoSharingApplication.Models.Comment>
+
+<h3>Komentari</h3>
+
+@foreach(var item in Model)
+{
+    <div>@Html.DisplayFor(model => item.UserName)</div>
+    <div>@Html.DisplayFor(model => item.Subject)</div>
+    <div>@Html.DisplayFor(model => item.Body)</div>
+}
+
+

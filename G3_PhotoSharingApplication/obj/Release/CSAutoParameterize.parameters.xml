@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="G3_PhotoSharingDB-Web.config Connection String" description="G3_PhotoSharingDB Connection String used in web.config by the application to access the database." defaultValue="Data Source=localhost;Initial Catalog=G3_PhotoSharingDB;User ID=G3login;Password=Pa$$w0rd;MultipleActiveResultSets=True;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Grupa3\\G3_PhotoSharingApplication-vezba3\\G3_PhotoSharingApplication\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='G3_PhotoSharingDB']/@connectionString" />
+  </parameter>
+</parameters>

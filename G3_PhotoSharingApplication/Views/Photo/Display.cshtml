@@ -1,0 +1,28 @@
+﻿@model G3_PhotoSharingApplication.Models.Photo
+
+@{
+    ViewBag.Title = "Display";
+}
+
+<h2>@Model.Title</h2>
+<img width="800" src="@Url.Action("GetImage", "Photo", new { id=Model.PhotoID})"/>
+
+<p>
+    @Html.DisplayFor(model => model.Description)
+</p>
+<p>
+    @Html.DisplayNameFor(model => model.UserName)
+    @Html.DisplayFor(model => model.UserName)
+</p>
+<p>
+    @Html.DisplayNameFor(model => model.CreatedDate)
+    @Html.DisplayFor(model => model.CreatedDate)
+</p>
+
+<p>
+    @Html.Action("_CommentsForPhoto", "Comment", new { PhotoId = Model.PhotoID})
+</p>
+<p>
+   @Html.ActionLink("Vrati se da vidis sve photos", "Index")
+</p>
+

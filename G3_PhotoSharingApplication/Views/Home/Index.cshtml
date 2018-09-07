@@ -1,0 +1,12 @@
+﻿
+@{
+    ViewBag.Title = "Prva strana";
+}
+
+<h2>Welcome to AW PhotoSharing</h2>
+
+<h2>Poslednje fotografije</h2>
+@Html.Action("_PhotoGallery", "Photo", new { number = 3})
+<br />
+@Html.ActionLink("Pogledaj sve fotografije", "Index", "Photo")
+

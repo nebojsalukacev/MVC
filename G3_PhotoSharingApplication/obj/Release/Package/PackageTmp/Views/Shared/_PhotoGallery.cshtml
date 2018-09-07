@@ -1,0 +1,22 @@
+﻿@model IEnumerable<G3_PhotoSharingApplication.Models.Photo>
+
+@foreach (var item in Model)
+{
+    <h3>@item.Title</h3>
+    if (item.PhotoFile != null)
+    {
+        <img width="200" src="@Url.Action("GetImage", "Photo", new { id = item.PhotoID})" />
+    }
+    <p>
+        <span>Created by: </span>
+        @Html.DisplayFor(model => item.UserName)
+    </p>
+    <p>
+        <span>Created on: </span>
+        @Html.DisplayFor(model => item.CreatedDate)
+    </p>
+    @Html.ActionLink("Prikazi sliku", "Display", new { id = item.PhotoID })
+
+
+}
+

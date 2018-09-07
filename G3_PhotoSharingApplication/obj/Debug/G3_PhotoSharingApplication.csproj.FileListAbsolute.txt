@@ -1,0 +1,128 @@
+C:\Grupa3\G3_PhotoSharingApplication\G3_PhotoSharingApplication\bin\roslyn\csc.exe
+C:\Grupa3\G3_PhotoSharingApplication\G3_PhotoSharingApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Grupa3\G3_PhotoSharingApplication\G3_PhotoSharingApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Grupa3\G3_PhotoSharingApplication\G3_PhotoSharingApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Grupa3\G3_PhotoSharingApplication\G3_PhotoSharingApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Grupa3\G3_PhotoSharingApplication\G3_PhotoSharingApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Grupa3\G3_PhotoSharingApplication\G3_PhotoSharingApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Grupa3\G3_PhotoSharingApplication\G3_PhotoSharingApplication\bin\roslyn\System.Collections.Immutable.dll
+C:\Grupa3\G3_PhotoSharingApplication\G3_PhotoSharingApplication\bin\roslyn\System.Reflection.Metadata.dll
+C:\Grupa3\G3_PhotoSharingApplication\G3_PhotoSharingApplication\bin\roslyn\vbc.exe
+C:\Grupa3\G3_PhotoSharingApplication\G3_PhotoSharingApplication\bin\roslyn\VBCSCompiler.exe
+C:\Grupa3\G3_PhotoSharingApplication\G3_PhotoSharingApplication\bin\roslyn\VBCSCompiler.exe.config
+C:\Grupa3\G3_PhotoSharingApplication\G3_PhotoSharingApplication\bin\G3_PhotoSharingApplication.dll.config
+C:\Grupa3\G3_PhotoSharingApplication\G3_PhotoSharingApplication\bin\G3_PhotoSharingApplication.dll
+C:\Grupa3\G3_PhotoSharingApplication\G3_PhotoSharingApplication\bin\G3_PhotoSharingApplication.pdb
+C:\Grupa3\G3_PhotoSharingApplication\G3_PhotoSharingApplication\bin\EntityFramework.dll
+C:\Grupa3\G3_PhotoSharingApplication\G3_PhotoSharingApplication\bin\EntityFramework.SqlServer.dll
+C:\Grupa3\G3_PhotoSharingApplication\G3_PhotoSharingApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Grupa3\G3_PhotoSharingApplication\G3_PhotoSharingApplication\bin\Microsoft.Web.Infrastructure.dll
+C:\Grupa3\G3_PhotoSharingApplication\G3_PhotoSharingApplication\bin\System.Web.Helpers.dll
+C:\Grupa3\G3_PhotoSharingApplication\G3_PhotoSharingApplication\bin\System.Web.Mvc.dll
+C:\Grupa3\G3_PhotoSharingApplication\G3_PhotoSharingApplication\bin\System.Web.Razor.dll
+C:\Grupa3\G3_PhotoSharingApplication\G3_PhotoSharingApplication\bin\System.Web.Webpages.Deployment.dll
+C:\Grupa3\G3_PhotoSharingApplication\G3_PhotoSharingApplication\bin\System.Web.Webpages.dll
+C:\Grupa3\G3_PhotoSharingApplication\G3_PhotoSharingApplication\bin\System.Web.Webpages.Razor.dll
+C:\Grupa3\G3_PhotoSharingApplication\G3_PhotoSharingApplication\bin\EntityFramework.xml
+C:\Grupa3\G3_PhotoSharingApplication\G3_PhotoSharingApplication\bin\EntityFramework.SqlServer.xml
+C:\Grupa3\G3_PhotoSharingApplication\G3_PhotoSharingApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Grupa3\G3_PhotoSharingApplication\G3_PhotoSharingApplication\bin\System.Web.Razor.xml
+C:\Grupa3\G3_PhotoSharingApplication\G3_PhotoSharingApplication\bin\System.Web.Webpages.xml
+C:\Grupa3\G3_PhotoSharingApplication\G3_PhotoSharingApplication\bin\System.Web.Webpages.Deployment.xml
+C:\Grupa3\G3_PhotoSharingApplication\G3_PhotoSharingApplication\bin\System.Web.Webpages.Razor.xml
+C:\Grupa3\G3_PhotoSharingApplication\G3_PhotoSharingApplication\bin\System.Web.Helpers.xml
+C:\Grupa3\G3_PhotoSharingApplication\G3_PhotoSharingApplication\bin\System.Web.Mvc.xml
+C:\Grupa3\G3_PhotoSharingApplication\G3_PhotoSharingApplication\obj\Debug\G3_PhotoSharingApplication.csprojResolveAssemblyReference.cache
+C:\Grupa3\G3_PhotoSharingApplication\G3_PhotoSharingApplication\obj\Debug\G3_PhotoSharingApplication.dll
+C:\Grupa3\G3_PhotoSharingApplication\G3_PhotoSharingApplication\obj\Debug\G3_PhotoSharingApplication.pdb
+C:\Grupa3\G3_PhotoSharingApplication-vezba3\G3_PhotoSharingApplication\bin\roslyn\csc.exe
+C:\Grupa3\G3_PhotoSharingApplication-vezba3\G3_PhotoSharingApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Grupa3\G3_PhotoSharingApplication-vezba3\G3_PhotoSharingApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Grupa3\G3_PhotoSharingApplication-vezba3\G3_PhotoSharingApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Grupa3\G3_PhotoSharingApplication-vezba3\G3_PhotoSharingApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Grupa3\G3_PhotoSharingApplication-vezba3\G3_PhotoSharingApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Grupa3\G3_PhotoSharingApplication-vezba3\G3_PhotoSharingApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Grupa3\G3_PhotoSharingApplication-vezba3\G3_PhotoSharingApplication\bin\roslyn\System.Collections.Immutable.dll
+C:\Grupa3\G3_PhotoSharingApplication-vezba3\G3_PhotoSharingApplication\bin\roslyn\System.Reflection.Metadata.dll
+C:\Grupa3\G3_PhotoSharingApplication-vezba3\G3_PhotoSharingApplication\bin\roslyn\vbc.exe
+C:\Grupa3\G3_PhotoSharingApplication-vezba3\G3_PhotoSharingApplication\bin\roslyn\VBCSCompiler.exe
+C:\Grupa3\G3_PhotoSharingApplication-vezba3\G3_PhotoSharingApplication\bin\roslyn\VBCSCompiler.exe.config
+C:\Grupa3\G3_PhotoSharingApplication-vezba3\G3_PhotoSharingApplication\bin\G3_PhotoSharingApplication.dll.config
+C:\Grupa3\G3_PhotoSharingApplication-vezba3\G3_PhotoSharingApplication\bin\G3_PhotoSharingApplication.dll
+C:\Grupa3\G3_PhotoSharingApplication-vezba3\G3_PhotoSharingApplication\bin\G3_PhotoSharingApplication.pdb
+C:\Grupa3\G3_PhotoSharingApplication-vezba3\G3_PhotoSharingApplication\bin\EntityFramework.dll
+C:\Grupa3\G3_PhotoSharingApplication-vezba3\G3_PhotoSharingApplication\bin\EntityFramework.SqlServer.dll
+C:\Grupa3\G3_PhotoSharingApplication-vezba3\G3_PhotoSharingApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Grupa3\G3_PhotoSharingApplication-vezba3\G3_PhotoSharingApplication\bin\Microsoft.Web.Infrastructure.dll
+C:\Grupa3\G3_PhotoSharingApplication-vezba3\G3_PhotoSharingApplication\bin\System.Web.Helpers.dll
+C:\Grupa3\G3_PhotoSharingApplication-vezba3\G3_PhotoSharingApplication\bin\System.Web.Mvc.dll
+C:\Grupa3\G3_PhotoSharingApplication-vezba3\G3_PhotoSharingApplication\bin\System.Web.Razor.dll
+C:\Grupa3\G3_PhotoSharingApplication-vezba3\G3_PhotoSharingApplication\bin\System.Web.Webpages.Deployment.dll
+C:\Grupa3\G3_PhotoSharingApplication-vezba3\G3_PhotoSharingApplication\bin\System.Web.Webpages.dll
+C:\Grupa3\G3_PhotoSharingApplication-vezba3\G3_PhotoSharingApplication\bin\System.Web.Webpages.Razor.dll
+C:\Grupa3\G3_PhotoSharingApplication-vezba3\G3_PhotoSharingApplication\bin\EntityFramework.xml
+C:\Grupa3\G3_PhotoSharingApplication-vezba3\G3_PhotoSharingApplication\bin\EntityFramework.SqlServer.xml
+C:\Grupa3\G3_PhotoSharingApplication-vezba3\G3_PhotoSharingApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Grupa3\G3_PhotoSharingApplication-vezba3\G3_PhotoSharingApplication\bin\System.Web.Razor.xml
+C:\Grupa3\G3_PhotoSharingApplication-vezba3\G3_PhotoSharingApplication\bin\System.Web.Webpages.xml
+C:\Grupa3\G3_PhotoSharingApplication-vezba3\G3_PhotoSharingApplication\bin\System.Web.Webpages.Deployment.xml
+C:\Grupa3\G3_PhotoSharingApplication-vezba3\G3_PhotoSharingApplication\bin\System.Web.Webpages.Razor.xml
+C:\Grupa3\G3_PhotoSharingApplication-vezba3\G3_PhotoSharingApplication\bin\System.Web.Helpers.xml
+C:\Grupa3\G3_PhotoSharingApplication-vezba3\G3_PhotoSharingApplication\bin\System.Web.Mvc.xml
+C:\Grupa3\G3_PhotoSharingApplication-vezba3\G3_PhotoSharingApplication\obj\Debug\G3_PhotoSharingApplication.csprojResolveAssemblyReference.cache
+C:\Grupa3\G3_PhotoSharingApplication-vezba3\G3_PhotoSharingApplication\obj\Debug\G3_PhotoSharingApplication.dll
+C:\Grupa3\G3_PhotoSharingApplication-vezba3\G3_PhotoSharingApplication\obj\Debug\G3_PhotoSharingApplication.pdb
+C:\Grupa3\G3_PhotoSharingApplication-vezba3\G3_PhotoSharingApplication\bin\Newtonsoft.Json.dll
+C:\Grupa3\G3_PhotoSharingApplication-vezba3\G3_PhotoSharingApplication\bin\System.Net.Http.Formatting.dll
+C:\Grupa3\G3_PhotoSharingApplication-vezba3\G3_PhotoSharingApplication\bin\System.Web.Http.dll
+C:\Grupa3\G3_PhotoSharingApplication-vezba3\G3_PhotoSharingApplication\bin\System.Web.Http.WebHost.dll
+C:\Grupa3\G3_PhotoSharingApplication-vezba3\G3_PhotoSharingApplication\bin\Newtonsoft.Json.xml
+C:\Grupa3\G3_PhotoSharingApplication-vezba3\G3_PhotoSharingApplication\bin\System.Net.Http.Formatting.xml
+C:\Grupa3\G3_PhotoSharingApplication-vezba3\G3_PhotoSharingApplication\bin\System.Web.Http.xml
+C:\Grupa3\G3_PhotoSharingApplication-vezba3\G3_PhotoSharingApplication\bin\System.Web.Http.WebHost.xml
+C:\Users\Nebojsa\Desktop\ASP.NET Programming\MVC_Vezbe+Slajdovi+Zadaci\G3_PhotoSharingApplication-vezba4\G3_PhotoSharingApplication\bin\roslyn\csc.exe
+C:\Users\Nebojsa\Desktop\ASP.NET Programming\MVC_Vezbe+Slajdovi+Zadaci\G3_PhotoSharingApplication-vezba4\G3_PhotoSharingApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Nebojsa\Desktop\ASP.NET Programming\MVC_Vezbe+Slajdovi+Zadaci\G3_PhotoSharingApplication-vezba4\G3_PhotoSharingApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Nebojsa\Desktop\ASP.NET Programming\MVC_Vezbe+Slajdovi+Zadaci\G3_PhotoSharingApplication-vezba4\G3_PhotoSharingApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Nebojsa\Desktop\ASP.NET Programming\MVC_Vezbe+Slajdovi+Zadaci\G3_PhotoSharingApplication-vezba4\G3_PhotoSharingApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Nebojsa\Desktop\ASP.NET Programming\MVC_Vezbe+Slajdovi+Zadaci\G3_PhotoSharingApplication-vezba4\G3_PhotoSharingApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Nebojsa\Desktop\ASP.NET Programming\MVC_Vezbe+Slajdovi+Zadaci\G3_PhotoSharingApplication-vezba4\G3_PhotoSharingApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Nebojsa\Desktop\ASP.NET Programming\MVC_Vezbe+Slajdovi+Zadaci\G3_PhotoSharingApplication-vezba4\G3_PhotoSharingApplication\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Nebojsa\Desktop\ASP.NET Programming\MVC_Vezbe+Slajdovi+Zadaci\G3_PhotoSharingApplication-vezba4\G3_PhotoSharingApplication\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Nebojsa\Desktop\ASP.NET Programming\MVC_Vezbe+Slajdovi+Zadaci\G3_PhotoSharingApplication-vezba4\G3_PhotoSharingApplication\bin\roslyn\vbc.exe
+C:\Users\Nebojsa\Desktop\ASP.NET Programming\MVC_Vezbe+Slajdovi+Zadaci\G3_PhotoSharingApplication-vezba4\G3_PhotoSharingApplication\bin\roslyn\VBCSCompiler.exe
+C:\Users\Nebojsa\Desktop\ASP.NET Programming\MVC_Vezbe+Slajdovi+Zadaci\G3_PhotoSharingApplication-vezba4\G3_PhotoSharingApplication\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Nebojsa\Desktop\ASP.NET Programming\MVC_Vezbe+Slajdovi+Zadaci\G3_PhotoSharingApplication-vezba4\G3_PhotoSharingApplication\bin\G3_PhotoSharingApplication.dll.config
+C:\Users\Nebojsa\Desktop\ASP.NET Programming\MVC_Vezbe+Slajdovi+Zadaci\G3_PhotoSharingApplication-vezba4\G3_PhotoSharingApplication\bin\G3_PhotoSharingApplication.dll
+C:\Users\Nebojsa\Desktop\ASP.NET Programming\MVC_Vezbe+Slajdovi+Zadaci\G3_PhotoSharingApplication-vezba4\G3_PhotoSharingApplication\bin\G3_PhotoSharingApplication.pdb
+C:\Users\Nebojsa\Desktop\ASP.NET Programming\MVC_Vezbe+Slajdovi+Zadaci\G3_PhotoSharingApplication-vezba4\G3_PhotoSharingApplication\bin\EntityFramework.dll
+C:\Users\Nebojsa\Desktop\ASP.NET Programming\MVC_Vezbe+Slajdovi+Zadaci\G3_PhotoSharingApplication-vezba4\G3_PhotoSharingApplication\bin\EntityFramework.SqlServer.dll
+C:\Users\Nebojsa\Desktop\ASP.NET Programming\MVC_Vezbe+Slajdovi+Zadaci\G3_PhotoSharingApplication-vezba4\G3_PhotoSharingApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Nebojsa\Desktop\ASP.NET Programming\MVC_Vezbe+Slajdovi+Zadaci\G3_PhotoSharingApplication-vezba4\G3_PhotoSharingApplication\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Nebojsa\Desktop\ASP.NET Programming\MVC_Vezbe+Slajdovi+Zadaci\G3_PhotoSharingApplication-vezba4\G3_PhotoSharingApplication\bin\Newtonsoft.Json.dll
+C:\Users\Nebojsa\Desktop\ASP.NET Programming\MVC_Vezbe+Slajdovi+Zadaci\G3_PhotoSharingApplication-vezba4\G3_PhotoSharingApplication\bin\System.Net.Http.Formatting.dll
+C:\Users\Nebojsa\Desktop\ASP.NET Programming\MVC_Vezbe+Slajdovi+Zadaci\G3_PhotoSharingApplication-vezba4\G3_PhotoSharingApplication\bin\System.Web.Helpers.dll
+C:\Users\Nebojsa\Desktop\ASP.NET Programming\MVC_Vezbe+Slajdovi+Zadaci\G3_PhotoSharingApplication-vezba4\G3_PhotoSharingApplication\bin\System.Web.Http.dll
+C:\Users\Nebojsa\Desktop\ASP.NET Programming\MVC_Vezbe+Slajdovi+Zadaci\G3_PhotoSharingApplication-vezba4\G3_PhotoSharingApplication\bin\System.Web.Http.WebHost.dll
+C:\Users\Nebojsa\Desktop\ASP.NET Programming\MVC_Vezbe+Slajdovi+Zadaci\G3_PhotoSharingApplication-vezba4\G3_PhotoSharingApplication\bin\System.Web.Mvc.dll
+C:\Users\Nebojsa\Desktop\ASP.NET Programming\MVC_Vezbe+Slajdovi+Zadaci\G3_PhotoSharingApplication-vezba4\G3_PhotoSharingApplication\bin\System.Web.Razor.dll
+C:\Users\Nebojsa\Desktop\ASP.NET Programming\MVC_Vezbe+Slajdovi+Zadaci\G3_PhotoSharingApplication-vezba4\G3_PhotoSharingApplication\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Nebojsa\Desktop\ASP.NET Programming\MVC_Vezbe+Slajdovi+Zadaci\G3_PhotoSharingApplication-vezba4\G3_PhotoSharingApplication\bin\System.Web.Webpages.dll
+C:\Users\Nebojsa\Desktop\ASP.NET Programming\MVC_Vezbe+Slajdovi+Zadaci\G3_PhotoSharingApplication-vezba4\G3_PhotoSharingApplication\bin\System.Web.Webpages.Razor.dll
+C:\Users\Nebojsa\Desktop\ASP.NET Programming\MVC_Vezbe+Slajdovi+Zadaci\G3_PhotoSharingApplication-vezba4\G3_PhotoSharingApplication\bin\EntityFramework.xml
+C:\Users\Nebojsa\Desktop\ASP.NET Programming\MVC_Vezbe+Slajdovi+Zadaci\G3_PhotoSharingApplication-vezba4\G3_PhotoSharingApplication\bin\EntityFramework.SqlServer.xml
+C:\Users\Nebojsa\Desktop\ASP.NET Programming\MVC_Vezbe+Slajdovi+Zadaci\G3_PhotoSharingApplication-vezba4\G3_PhotoSharingApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Nebojsa\Desktop\ASP.NET Programming\MVC_Vezbe+Slajdovi+Zadaci\G3_PhotoSharingApplication-vezba4\G3_PhotoSharingApplication\bin\Newtonsoft.Json.xml
+C:\Users\Nebojsa\Desktop\ASP.NET Programming\MVC_Vezbe+Slajdovi+Zadaci\G3_PhotoSharingApplication-vezba4\G3_PhotoSharingApplication\bin\System.Net.Http.Formatting.xml
+C:\Users\Nebojsa\Desktop\ASP.NET Programming\MVC_Vezbe+Slajdovi+Zadaci\G3_PhotoSharingApplication-vezba4\G3_PhotoSharingApplication\bin\System.Web.Http.xml
+C:\Users\Nebojsa\Desktop\ASP.NET Programming\MVC_Vezbe+Slajdovi+Zadaci\G3_PhotoSharingApplication-vezba4\G3_PhotoSharingApplication\bin\System.Web.Http.WebHost.xml
+C:\Users\Nebojsa\Desktop\ASP.NET Programming\MVC_Vezbe+Slajdovi+Zadaci\G3_PhotoSharingApplication-vezba4\G3_PhotoSharingApplication\bin\System.Web.Razor.xml
+C:\Users\Nebojsa\Desktop\ASP.NET Programming\MVC_Vezbe+Slajdovi+Zadaci\G3_PhotoSharingApplication-vezba4\G3_PhotoSharingApplication\bin\System.Web.Webpages.xml
+C:\Users\Nebojsa\Desktop\ASP.NET Programming\MVC_Vezbe+Slajdovi+Zadaci\G3_PhotoSharingApplication-vezba4\G3_PhotoSharingApplication\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Nebojsa\Desktop\ASP.NET Programming\MVC_Vezbe+Slajdovi+Zadaci\G3_PhotoSharingApplication-vezba4\G3_PhotoSharingApplication\bin\System.Web.Webpages.Razor.xml
+C:\Users\Nebojsa\Desktop\ASP.NET Programming\MVC_Vezbe+Slajdovi+Zadaci\G3_PhotoSharingApplication-vezba4\G3_PhotoSharingApplication\bin\System.Web.Helpers.xml
+C:\Users\Nebojsa\Desktop\ASP.NET Programming\MVC_Vezbe+Slajdovi+Zadaci\G3_PhotoSharingApplication-vezba4\G3_PhotoSharingApplication\bin\System.Web.Mvc.xml
+C:\Users\Nebojsa\Desktop\ASP.NET Programming\MVC_Vezbe+Slajdovi+Zadaci\G3_PhotoSharingApplication-vezba4\G3_PhotoSharingApplication\obj\Debug\G3_PhotoSharingApplication.csprojResolveAssemblyReference.cache
+C:\Users\Nebojsa\Desktop\ASP.NET Programming\MVC_Vezbe+Slajdovi+Zadaci\G3_PhotoSharingApplication-vezba4\G3_PhotoSharingApplication\obj\Debug\G3_PhotoSharingApplication.csproj.CoreCompileInputs.cache
+C:\Users\Nebojsa\Desktop\ASP.NET Programming\MVC_Vezbe+Slajdovi+Zadaci\G3_PhotoSharingApplication-vezba4\G3_PhotoSharingApplication\obj\Debug\G3_PhotoSharingApplication.dll
+C:\Users\Nebojsa\Desktop\ASP.NET Programming\MVC_Vezbe+Slajdovi+Zadaci\G3_PhotoSharingApplication-vezba4\G3_PhotoSharingApplication\obj\Debug\G3_PhotoSharingApplication.pdb

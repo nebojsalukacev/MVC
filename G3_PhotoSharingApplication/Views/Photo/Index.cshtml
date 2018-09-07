@@ -1,0 +1,13 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Sve slike</h2>
+<p>
+    @Html.ActionLink("Dodaj sliku", "Create", "Photo")
+</p>
+<div>
+    @Html.Action("_PhotoGallery", "Photo")
+</div>
+
